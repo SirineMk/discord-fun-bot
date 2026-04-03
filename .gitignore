@@ -1,0 +1,6 @@
+node_modules/
+.env
+.idea/
+pr_sm
+pr_sm.pub
+package-lock.json
