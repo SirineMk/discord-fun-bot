@@ -1,3 +1,5 @@
+require('dotenv').config();
+//
 // const { Client, GatewayIntentBits } = require('discord.js');
 //
 // console.log("Bot starting...");
@@ -69,7 +71,7 @@
 //     message.reply(`Stopped annoying ${member.user.tag} ?`);
 //   }
 // });
-//
+
 // client.login("");
 require('dotenv').config();
 const { Client, GatewayIntentBits } = require('discord.js');

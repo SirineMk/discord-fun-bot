@@ -3,4 +3,3 @@ node_modules/
 .idea/
 pr_sm
 pr_sm.pub
-package-lock.json
