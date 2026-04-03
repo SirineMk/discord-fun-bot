@@ -127,3 +127,5 @@ client.on('messageCreate', (message) => {
 });
 
 client.login(process.env.TOKEN);
+
+// End of the Supid Bot
